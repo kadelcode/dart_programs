@@ -4,4 +4,4 @@
 	-	Subtraction
 	-	Division
 	-	Multiplication
-	-	Addition## A simple CLI Calculator
+	-	Modulus
