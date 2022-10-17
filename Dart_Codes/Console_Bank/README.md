@@ -1,5 +1,5 @@
 # Console Bank
-## Program Description
+#Program Description
 	* This program demonstrates a blue print of a user's bank account
 	* The user is able to perform the following actions:
 		- Account name
