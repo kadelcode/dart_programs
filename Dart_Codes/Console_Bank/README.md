@@ -1,10 +1,12 @@
 # Console Bank
 # Program Description
 * This program demonstrates a blue print of a user's bank account
-* The user is able to perform the following actions:
+
+* The class will have the following properties:
 	- Account name
 	- Account number
 	- Account balance
+
 * There are methods which handles the following:
 	- Displays the available balance of the user
 	- Increases the available balance of the user when a deposit is made
